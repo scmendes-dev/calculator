@@ -1,0 +1,59 @@
+body{
+    background-color: #a9bd7e;
+}
+table{
+     margin: auto;
+    background-color: #9dd2ea;
+    width: 650px;
+    height: 350px;
+    padding: 10px;
+    position: relative;
+    text-align: center;
+    border-radius: 4px;
+    float: left;
+}
+input{
+    outline: 0;
+    position: relative;
+    left: 5px;
+    top: 5px;
+    border: 0;
+    color: #495069;
+    background-color: 4px;
+    width: 60px;
+    height: 50px;
+    float: center;
+    margin: 5px;
+    font-size: 20px;
+    box-shadow: 0 4px rgba(0,0,0,0.2);
+}
+#Operator{
+    background-color: #f1ff92;
+    position: relative;
+}
+
+#value1{
+    width: 250px;
+    font-size: 26px;
+    text-align: center;
+    background-color: #f1faeb;
+    float: center;
+
+}
+
+#value2{
+    width: 250px;
+    font-size: 26px;
+    text-align: center;
+    background-color: #f1faeb;
+    float: center;
+
+}
+
+#result{
+    width: 250px;
+    font-size: 26px;
+    text-align: center;
+    background-color: #f1faeb;
+    float: center;
+}
